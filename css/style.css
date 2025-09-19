@@ -20,6 +20,7 @@ header {
 }
 header ul {
   display: flex;
+  font-size: 20px;
 }
 header li {
   width: calc(100% / 4);
